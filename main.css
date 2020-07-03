@@ -1,0 +1,55 @@
+
+body{
+	margin-top: 50px;
+	text-align: center;
+	background-image: linear-gradient(to right, #C9FBF1, #8addec ,#c2f34e);
+}
+
+h1{
+	text-shadow: 2px 2px 5px brown;
+	font-family: cursive;
+	
+}
+
+main{
+	text-align: center;
+}
+
+input[type="text"]{
+	height:40px;
+	width:270px;
+	border-radius: 5px;
+	border: 2px solid #113F7B;
+    text-align:center;
+
+}
+
+ul{
+	list-style-type: none;
+	text-align: center;
+}
+
+li{
+	height:30px;
+	border-radius: 5px;
+}
+
+
+p{
+	margin-left: 3px;
+	display:inline;
+}
+
+.del{
+	margin-left: 5px;
+	border-radius: 2px;
+}
+
+button{
+	width:80px;
+	height:30px;
+	border-radius:8px;
+	border: 2px solid #E1175A;
+}
+
+
